@@ -39,3 +39,5 @@ lerna-debug.log*
 
 # hightweight factory database (players.json file)
 /db/
+
+package-lock.json
